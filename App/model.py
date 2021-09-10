@@ -199,6 +199,7 @@ def comparetagnames(name, tag):
         return 1
     return -1
 
+
 # Funciones de ordenamiento
 
 def sortBooks(catalog, size):
